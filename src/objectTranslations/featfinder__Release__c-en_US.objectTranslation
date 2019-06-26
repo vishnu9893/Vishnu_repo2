@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Number of features --></label>
+        <name>featfinder__Number_of_features__c</name>
+    </fields>
+    <fields>
+        <label><!-- Release Notes URL (PDF) --></label>
+        <name>featfinder__Release_Notes_URL_PDF__c</name>
+    </fields>
+    <fields>
+        <label><!-- Release logo --></label>
+        <name>featfinder__Release_logo__c</name>
+    </fields>
+    <fields>
+        <label><!-- icon url --></label>
+        <name>featfinder__icon_url__c</name>
+    </fields>
+    <fields>
+        <label><!-- isLatest --></label>
+        <name>featfinder__isLatest__c</name>
+    </fields>
+</CustomObjectTranslation>

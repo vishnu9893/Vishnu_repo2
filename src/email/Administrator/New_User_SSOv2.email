@@ -1,0 +1,24 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="1" >
+<![CDATA[<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2" style=""><span style="font-family: Helv, sans-serif;">Hi&nbsp;</span><font face="Helv, sans-serif" style="">{!Receiving_User.FirstName},</font></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif;">Please go to&nbsp;</span></font><a href="https://sts.manulife.com/adfs/ls/IdpInitiatedSignOn.aspx?LoginToRp=https://kukulu.lightning.force.com" style="font-size: small; background-color: rgb(255, 255, 255);">https://sts.manulife.com/adfs/ls/IdpInitiatedSignOn.aspx?LoginToRp=https://kukulu.lightning.force.com</a>&nbsp;<font size="2">to access Kukulu Single Sign-on link.</font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">Take the following
+steps to save the URL as a Bookmark in your browser to easily access Salesforce.com in the future: (steps are customized for
+Google Chrome)</span></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">1. Click the star icon<span style="mso-spacerun:yes">&nbsp;</span>found at the far right side of the
+address bar</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">2. Click in the 'Name'
+field and type the name you wish for it to be called (e.g. "Kukulu SSO")</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">3. Ensure that
+"Bookmarks Bar" is the selected folder</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">4. Click
+"Finished"</span><span style="color:black"><o:p></o:p></span></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2">Please notify your Salesforce Administrator for any login issues.</font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2">Kukulu Administration</font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><b style="color: rgb(255, 0, 0);"><i><font size="2">Important links:&nbsp;</font></i></b></p><p style="color: rgb(0, 0, 0); font-family: arial;"><a href="https://trailhead.salesforce.com/help?article=Trailhead-Self-Service-Account-Merge" style=""><font size="2">Merge Trailhead Account(s)</font></a></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><a href="https://join.slack.com/t/cea-salesforce/shared_invite/enQtNDQwNDQ4NTEyNDgzLTg1ZGM1MzVjYmJlYmY5NzJmOWQ5ODM4NGMzNDkzYzQyNjU0ZDhkY2RiNWU3ZGY5MDQ3NDU1NWRmMmE1YjQzNmY">CEA Salesforce &amp; CCT Slack</a></font></p><p style="font-size: 12pt; color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="font-size: 12pt; color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p>
+
+<p class="MsoNormal" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: arial;"><br></p>]]></td>
+</tr>
+</table>

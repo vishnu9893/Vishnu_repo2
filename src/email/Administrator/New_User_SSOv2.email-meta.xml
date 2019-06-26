@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>CE_A_SF_CCT</letterhead>
+    <name>New User SSOv2</name>
+    <style>freeForm</style>
+    <subject>Welcome to Kukulu with Single Sign-On!</subject>
+    <textOnly>Hi {!Receiving_User.FirstName},
+
+
+
+Please go to CEA Salesforce &amp; CCT Slack to access the Kukulu Single Sign-on link and look for my latest post!
+
+
+
+Take the following steps to save the URL as a Bookmark in your browser to easily access Salesforce.com in the future: (steps are customized for Google Chrome)
+
+
+
+1. Click the star icon found at the far right side of the address bar
+
+2. Click in the &apos;Name&apos; field and type the name you wish for it to be called (e.g. &quot;Kukulu SSO&quot;)
+
+3. Ensure that &quot;Bookmarks Bar&quot; is the selected folder
+
+4. Click &quot;Finished&quot;
+
+
+
+Please notify your Salesforce Administrator for any login issues.
+
+
+
+Kukulu Administration
+
+
+
+
+
+Important links:
+
+Merge Trailhead Account(s)
+
+CEA Salesforce &amp; CCT Slack</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

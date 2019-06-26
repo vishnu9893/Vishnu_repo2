@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- # of Features --></label>
+        <name>featfinder__Features__c</name>
+    </fields>
+    <fields>
+        <label><!-- Number of features --></label>
+        <name>featfinder__Number_of_features__c</name>
+    </fields>
+    <webLinks>
+        <label><!-- Standard_Feature_Finder --></label>
+        <name>featfinder__Standard_Feature_Finder</name>
+    </webLinks>
+</CustomObjectTranslation>

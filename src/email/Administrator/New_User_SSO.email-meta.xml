@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>CE_A</letterhead>
+    <name>New User SSO</name>
+    <style>freeForm</style>
+    <subject>Welcome to Kukulu Single Sign-On!</subject>
+    <textOnly>Hi {!User.FirstName},
+
+
+
+
+
+Please copy and paste the following link into your web browser to access the application via Single Sign-On (SSO):
+
+
+
+https://sts.manulife.com/adfs/ls/IdpInitiatedSignOn.aspx?LoginToRp=https://kukulu.lightning.force.com
+
+
+
+
+
+Take the following steps to save the above URL as a Bookmark in your browser so that you can easily access Salesforce.com in the future: (steps below are customize for Google Chrome, steps for other browsers may vary)
+
+
+
+
+
+1. Click the star icon found at the far right side of the address bar
+
+2. Click in the &apos;Name&apos; field and type the name you wish for it to be called (e.g. &quot;Kukulu SSO&quot;)
+
+3. Ensure that &quot;Bookmarks Bar&quot; is the selected folder
+
+4. Click &quot;Finished&quot;
+
+
+
+Please notify your Salesforce Administrator for any login issues.
+
+
+
+
+
+Need to merge your Trailhead Accounts for Trail Tracker?  Click here for instructions.
+
+
+
+
+
+
+
+Kukulu Administration</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

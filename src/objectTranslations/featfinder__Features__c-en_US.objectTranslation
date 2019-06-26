@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- Description --></label>
+        <name>featfinder__Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- Feature --></label>
+        <name>featfinder__Feature__c</name>
+    </fields>
+    <fields>
+        <label><!-- Feature discussion --></label>
+        <name>featfinder__Feature_discussion__c</name>
+        <relationshipLabel><!-- Features --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Name --></label>
+        <name>featfinder__Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product --></label>
+        <name>featfinder__Product__c</name>
+    </fields>
+    <fields>
+        <label><!-- Release_Notes_URL_PDF --></label>
+        <name>featfinder__Release_Notes_URL_PDF__c</name>
+    </fields>
+    <fields>
+        <label><!-- Release --></label>
+        <name>featfinder__Release__c</name>
+    </fields>
+    <fields>
+        <label><!-- sub product --></label>
+        <name>featfinder__sub_product__c</name>
+    </fields>
+    <fields>
+        <label><!-- ui impact --></label>
+        <name>featfinder__ui_impact__c</name>
+    </fields>
+</CustomObjectTranslation>

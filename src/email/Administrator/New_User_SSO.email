@@ -1,0 +1,29 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="1" >
+<![CDATA[<p style="font-size: 12pt;"><br></p><p style=""><font size="2" style=""><span style="color: black; font-family: Helv, sans-serif;">Hi&nbsp;</span><font face="Helv, sans-serif" style="">{!User.FirstName},</font></font></p><p style=""><font size="2"><font face="Helv, sans-serif"><br></font></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><span style="font-family: Helv, sans-serif; color: black;"><font size="2"><br></font></span></p><p style="color: rgb(0, 0, 0); font-family: arial;"><span style="font-family: Helv, sans-serif; color: black;"><font size="2">Please copy and paste
+the following link into your web browser to access the application via Single
+Sign-On (SSO):&nbsp;</font></span></p><p style="color: rgb(0, 0, 0); font-family: arial;"><span style="font-family: Helv, sans-serif; color: black;"><font size="2"><br></font></span></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><a href="https://sts.manulife.com/adfs/ls/IdpInitiatedSignOn.aspx?LoginToRp=https://kukulu.lightning.force.com" style="">https://sts.manulife.com/adfs/ls/IdpInitiatedSignOn.aspx?LoginToRp=https://kukulu.lightning.force.com</a>
+<o:p></o:p></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">Take the following
+steps to save the above URL as a Bookmark in your browser so that you can
+easily access Salesforce.com in the future: (steps below are customize for
+Google Chrome, steps for other browsers may vary)</span><span style="color:
+black"><o:p></o:p></span></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;"><br></span></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><span style="font-family: Helv, sans-serif; color: black;"><font size="2"><br></font></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">1. Click the star icon<span style="mso-spacerun:yes">&nbsp;</span>found at the far right side of the
+address bar</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">2. Click in the 'Name'
+field and type the name you wish for it to be called (e.g. "Kukulu SSO")</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">3. Ensure that
+"Bookmarks Bar" is the selected folder</span><span style="color:black"><o:p></o:p></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><span style="font-family: Helv, sans-serif; color: black;">4. Click
+"Finished"</span><span style="color:black"><o:p></o:p></span></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2">Please notify your Salesforce Administrator for any login issues.</font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2">Need to merge your Trailhead Accounts for Trail Tracker?&nbsp; Click&nbsp;<a href="https://trailhead.salesforce.com/help?article=Trailhead-Self-Service-Account-Merge" style=""><b>here</b></a>&nbsp;for instructions.</font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2"><br></font></p><p style="color: rgb(0, 0, 0); font-family: arial;"><font size="2" style="">Kukulu Administration</font></p>
+
+<p class="MsoNormal" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: arial;"><br></p>]]></td>
+</tr>
+</table>
