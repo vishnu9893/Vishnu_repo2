@@ -205,6 +205,16 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Time_Opened__c</fullName>
+        <externalId>false</externalId>
+        <label>Time Opened</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
